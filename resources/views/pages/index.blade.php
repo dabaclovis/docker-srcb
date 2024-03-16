@@ -10,4 +10,6 @@
             <a class="btn btn-primary btn-lg" href="Jumbo action link" role="button">Jumbo action name</a>
         </p>
     </div>
+
+    {{ dd($greets->learn()) }}
 @endsection
